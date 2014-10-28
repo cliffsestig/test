@@ -36,7 +36,7 @@ foreach ($products as $product) :
 
 	?>
 
-	<thead>
+	<thead>  
 			<tr>
 				<td class="col-sm-2"><?= $product->productLine?></td>
 				<br>
